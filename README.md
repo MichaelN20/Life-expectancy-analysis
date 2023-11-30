@@ -1,36 +1,33 @@
 # Life Expectancy Analysis
 ---
 
+**`Dashboard:`**
 [Tableau Dashboard](https://public.tableau.com/views/AngkaHarapanHidupInternasional/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-**`Using SMART framework:`**
+**`SMART framework:`**
 
-1. **Specific**: Memahami dan menganalisis hubungan antara faktor-faktor tertentu dengan angka harapan hidup, serta mengidentifikasi tren dan pola penting dari tahun 2000 hingga 2015.
+1. **Specific**: Understanding and analyzing the relationship between specific factors and life expectancy, as well as identifying significant trends and patterns from 2000 to 2015.
 
-2. **Measurable**:  Variabel-variabel seperti 'Life Expectancy', 'Adult Mortality', 'Alcohol', 'HIV/AIDS', dan lainnya akan dianalisis secara rinci. Metrik pengukuran melibatkan perhitungan statistik deskriptif, korelasi antar variabel, dan visualisasi grafis untuk memberikan wawasan yang jelas.
+2. **Measurable**: Variables such as 'Life Expectancy,' 'Adult Mortality,' 'Alcohol,' 'HIV/AIDS,' and others will be thoroughly analyzed. Measurement metrics involve descriptive statistical calculations, correlation between variables, and graphical visualization to provide clear insights.
 
-3. **Achievable**: Melakukan analisis terhadap data mengenai harapan hidup dan faktor-faktor kesehatan lainnya untuk melihat hubungan antar variabel.
+3. **Achievable**: Conducting analysis on data regarding life expectancy and other health factors to observe the relationships between variables.
 
-4. **Relevant**:  Analisis yang dilakukan akan memberikan pemahaman mendalam tentang perubahan dalam 15 tahun (2000-2015).
+4. **Relevant**: The analysis conducted will provide a deep understanding of changes over 15 years (2000-2015).
 
-5. **Time-Bound**: Insight didapatkan setelah seminggu analisis dimulai.
+5. **Time-Bound**: Insights will be obtained after a week of initiating the analysis.
 
 **`Problem statement:`**
+The ultimate goal is to understand the factors that have the greatest impact (lifestyle patterns, diseases, mortality rates, etc.) on an individual's life expectancy. This can be achieved by analyzing and understanding all types of variables related to health factors and life expectancy through data spanning 15 years (2000-2015).
 
-Tujuan akhirnya adalah untuk dapat memahami faktor-faktor yang memberikan dampak terbesar (pola hidup, penyakit, angka kematian, dll) terhadap harapan hidup seseorang. Hal ini dapat dicapai dengan melakukan analisis dan pehaman akan segala jenis variable terkait faktor kesehatan dan harapan hidup melalui data dari proyeksi 15 tahun (2000-2015).
+**`Objective:`**
+To understand and analyze the relationship between specific factors and life expectancy, as well as identifying trends and significant patterns from 2000 to 2015.
 
-🍽️ **Objective:** Leverage Zomato data to partner with top-rated restaurants across cities and maximize ROI.
+**`Goals:`**
+1. Diverse Partnerships: Collaborate with various types of restaurants in different cities.
+2. Data-Driven Insights: Utilize the Zomato database to assess customer preferences and restaurant features.
+3. Quality Focus: Prioritize high-rated restaurants to ensure quality and attraction, and follow trends in each city.
+4. Timely Execution: Complete the analysis within a week. Establish partnerships within a month.
 
-Goals: Diverse Partnerships: Collaborate with varied restaurant types across different cities.
-
-Data-Driven Insights: Use Zomato's database to gauge customer preferences and restaurant features.
-
-Quality Focus: Prioritize higher-rated restaurants to ensure quality and appeal and follow the trends of each city.
-
-Timely Execution: Complete analysis by next week. Secure partnerships within a month.
-
-📈 **Tools:**
-
-Analysis: Python, Numpy, Pandas, Scipy
-
-Visualization: Matplotlib, Seaborn
+**`Tools:`**
+- Analysis: Python, Numpy, Pandas, Scipy
+- Visualization: Matplotlib, Seaborn
