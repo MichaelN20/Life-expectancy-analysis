@@ -23,12 +23,6 @@ The ultimate goal is to understand the factors that have the greatest impact (li
 **`Objective:`**
 To understand and analyze the relationship between specific factors and life expectancy, as well as identifying trends and significant patterns from 2000 to 2015.
 
-**`Goals:`**
-1. Diverse Partnerships: Collaborate with various types of restaurants in different cities.
-2. Data-Driven Insights: Utilize the Zomato database to assess customer preferences and restaurant features.
-3. Quality Focus: Prioritize high-rated restaurants to ensure quality and attraction, and follow trends in each city.
-4. Timely Execution: Complete the analysis within a week. Establish partnerships within a month.
-
 **`Tools:`**
 - Analysis: Python, Numpy, Pandas, Scipy
 - Visualization: Matplotlib, Seaborn
